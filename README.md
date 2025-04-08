@@ -3,7 +3,7 @@
 
 ## figure showing scoring scheme used
 > * can use G-index or weighted sum
-> * G-index is my original, computes the score of answer by --accuracy * clarity + relevance
+> * G-index is my original, computes the score of answer by --accuracy * relevance + clarity
 
 
 ![image](https://github.com/green-gray-gaurav/AI-driven-interview/blob/master/ES.drawio.png)
