@@ -11,3 +11,6 @@
 
 ## figure showing the structure of QuestionSystem, Question Evaluator,ResumeLoader
 ![image](https://github.com/green-gray-gaurav/AI-driven-interview/blob/master/ARCH_QS_QE_RL.drawio.png)
+
+## figure showing the radar chart of individual performance
+![image](https://github.com/green-gray-gaurav/AI-driven-interview/blob/master/Screenshot%202025-04-09%20000330.png)
